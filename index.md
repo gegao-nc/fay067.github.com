@@ -1,7 +1,7 @@
 ## Ge Gao                       gao412@purdue.edu
 ![fay067](gao.jpg)  
 
-I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recuitment or referral.
+<font size=0.1>I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recuitment or referral.</font>
 
 -----------------------------------------------------------------------------------------------
 ### Education
@@ -37,7 +37,9 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 -----------------------------------------------------------------------------------------------
 ### Projects
  
-**A game based on UE4 and C++ - Tofu Game!**
+**A game based on UE4 - Tofu Game!**
+
+*Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
 
 ![fay067](TofuGame.png)  
 
