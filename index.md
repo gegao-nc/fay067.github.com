@@ -18,6 +18,12 @@ Summer Session, UC,Berkeley
 
 #### Selected Courses
 
+Game & VR Development                     A
+
+Advanced Real-Time Computer Graphics      A+
+
+Statistics Methods                        A
+
 Visualization in Sciencific Computer      90
 
 Principles of Database                    92
