@@ -18,15 +18,15 @@ Summer Session, UC,Berkeley
 
 #### Selected Courses
 
-Visualization in Sciencific Computer      90
+Visualization in Sciencific Computer &emsp;&emsp;&emsp;&emsp;&emsp; 90
 
-Principles of Database                    92
+Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 92
 
-Computer Graphics                         93
+Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;93
 
-Quantum Computing                         96(top 1)
+Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 96(top 1)
 
-Control Techniques of Computer            90(top 1)
+Control Techniques of Computer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
 
 Computational Geometry                    96(top 1)
 
