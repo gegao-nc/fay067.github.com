@@ -1,4 +1,4 @@
-![GGao](fay067.github.com/GGao.jpg) 
+![fay067](GGao.jpg) 
 ## Ge Gao
 Graduate Student
 
