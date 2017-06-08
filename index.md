@@ -8,12 +8,15 @@ Game Innovation Lab
 Polytechnic Institute, Purdue University
 
 -----------------------------------------------------------------------------------------------
+### Education
 
 M.S. Computer Graphics, Purdue University
 
 B.E. Computer Science, Tianjin University
 
 Summer Session, UC,Berkeley
+
+#### Selected Courses
 
 -----------------------------------------------------------------------------------------------
 
