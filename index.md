@@ -30,7 +30,7 @@ Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1
 
 Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 96(top 1)
 
-Equation of Mathematics & Physics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;98(top 1)
+Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;98(top 1)
 
 Game & VR Development                     A
 
