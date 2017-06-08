@@ -50,5 +50,8 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 ![TofuGame](TofuGame.png)  
 
+**Flight Simulator in VR Environment**
+
+*Ge Gao, Xiaoyi Huang*
 
 
