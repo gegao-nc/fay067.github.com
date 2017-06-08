@@ -36,6 +36,9 @@ Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp;A+
 Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
 
 -----------------------------------------------------------------------------------------------
+### Work Experience
+![NetEase]
+
 ### Projects
  
 **A game based on UE4 - Tofu Game!**
