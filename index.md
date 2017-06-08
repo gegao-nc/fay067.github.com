@@ -36,7 +36,7 @@ Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp
 
 Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp;A+
 
-Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
+Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
 
 -----------------------------------------------------------------------------------------------
 ### Projects
