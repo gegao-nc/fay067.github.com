@@ -32,9 +32,9 @@ Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;98(top 1)
 
-Game & VR Development                     A
+Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
 
-Advanced Real-Time Computer Graphics      A+
+Advanced Real-Time Computer Graphics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A+
 
 Statistics Methods                        A
 
