@@ -54,4 +54,6 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 *Ge Gao, Xiaoyi Huang*
 
+You can use LeapMotion in this game to gain better experience!
+
 
