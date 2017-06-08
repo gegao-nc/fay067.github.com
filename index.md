@@ -20,17 +20,18 @@ Summer Session, UC,Berkeley
 
 Visualization in Sciencific Computer     90
 
+Principles of Database                   92
+
+Computer Graphics                        93
+
 Quantum Computing                        96(top 1)
 
 Control Techniques of Computer           90(top 1)
-
-Principles of Database                   92
 
 Computational Geometry                   96(top 1)
 
 Equation of Mathematics & Physics        98(top 1)
 
-Computer Graphics                        93
 -----------------------------------------------------------------------------------------------
 ### Projects
  
