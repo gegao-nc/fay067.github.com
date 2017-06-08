@@ -37,7 +37,9 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 -----------------------------------------------------------------------------------------------
 ### Work Experience
-![NetEase]
+![NetEase](NetEaseLogo.png) 
+
+2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](URL 'http://game.163.com/en/')** as a Senior Software Engineer Intern
 
 ### Projects
  
