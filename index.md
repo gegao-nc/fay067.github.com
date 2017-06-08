@@ -48,12 +48,15 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 *Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
 
+We made this game based on UE4, Maya and so on. I worked as a programmer to control triggers and AI in game, and I also worked as an artist(I made the tableware XD).
+
 ![TofuGame](TofuGame.png)  
 
 **Flight Simulator in VR Environment**
 
 *Ge Gao, Xiaoyi Huang*
 
-You can use LeapMotion in this game to gain better experience!
+We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion.
+
 
 
