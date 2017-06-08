@@ -3,7 +3,6 @@
 
 I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recuitment or referral.
 
-
 -----------------------------------------------------------------------------------------------
 ### Education
 
@@ -39,7 +38,9 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 ### Work Experience
 ![NetEase](NetEaseLogo.png) 
 
-2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern
+2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern. I mainly did research on super-dense tree covering in 3D large scene and keeping the balance between good visual effect and well GPU performance.
+
+-----------------------------------------------------------------------------------------------
 
 ### Projects
  
@@ -47,7 +48,7 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 *Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
 
-![fay067](TofuGame.png)  
+![TofuGame](TofuGame.png)  
 
 
 
