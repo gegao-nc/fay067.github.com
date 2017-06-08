@@ -26,7 +26,7 @@ Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&e
 
 Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 96(top 1)
 
-Control Techniques of Computer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
+Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
 
 Computational Geometry                    96(top 1)
 
