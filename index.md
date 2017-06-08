@@ -38,7 +38,7 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 ### Work Experience
 ![NetEase](NetEaseLogo.png) 
 
-2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern. I mainly did research on super-dense tree covering in 3D large scene and keeping the balance between good visual effect and well GPU performance.
+2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern. I mainly did research on super-dense tree covering in 3D large scene and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
 -----------------------------------------------------------------------------------------------
 
