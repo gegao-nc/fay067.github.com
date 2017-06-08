@@ -1,11 +1,7 @@
 ## Ge Gao                       gao412@purdue.edu
 ![fay067](gao.jpg)  
 
-Graduate Student
-
-Game Innovation Lab
-
-Polytechnic Institute, Purdue University
+I am currently a graduate student of Game Innovation Lab of Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recuitment or referral.
 
 -----------------------------------------------------------------------------------------------
 ### Education
