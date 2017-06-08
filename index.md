@@ -34,7 +34,7 @@ Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;98(top 1)
 
 Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
 
-Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
+Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp;A+
 
 Statistics Methods                        A
 
