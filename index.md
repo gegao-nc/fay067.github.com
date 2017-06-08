@@ -1,5 +1,5 @@
-![fay067](GGao.jpg) 
-## Ge Gao
+![fay067](gao.jpg)  **Ge Gao**
+
 Graduate Student
 
 Game Innovation Lab
