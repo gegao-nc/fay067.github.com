@@ -41,7 +41,7 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern. I mainly did research on super-dense tree covering in 3D large scene and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
 -----------------------------------------------------------------------------------------------
-### Projects
+### Projects(About programming)
  
 **A game based on UE4 - Tofu Game!**
 
@@ -77,6 +77,37 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 <img src="picture/CNetwork/cnetwork-client.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service1.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service2.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service3.png" height="150" width="150" />
 
+**Digital on-campus information platform**
+
+*Zheng Yan(Leader), Ge Gao, Mengnan Liu, Wei Tang*
+
+We developing a information inquiry platform based on ArcGIS and Google Maps.
+
+**A game based on 3DsMAX and 3DS Loader - Drivering**(My first experience with game development)
+
+*Ge Gao*
+
+I developed a real-time rendering 3D driving game with interaction, animation, terrain, object picking, and particle effect. 
+
+**Visualization of contour line based on MFC of VS**
+
+*Ge Gao*
+
+**Visualization of leaders of China and the US meeting data**
+
+*Ge Gao*
+
+**Image processing - Optimization of high contrasting photos**
+
+*Ge Gao*
+
+I realized this based on Tone Mapping algorithm.
+
+**Image processing - Optimization of handling outliers in non-blind image deconvolution**
+
+*Hongtao Liu(Leader), Ge Gao, Kai Liu*
+
+We highly accelerated the processing time based on the paper, [Cho S, Wang J, Lee S. Handling outliers in non-blind image deconvolution[C]// IEEE International Conference on Computer Vision. IEEE, 2012:495-502.](https://www.computer.org/csdl/proceedings/iccv/2011/1101/00/06126280-abs.html).
 -----------------------------------------------------------------------------------------------
 ### B.E. Thesis
 
