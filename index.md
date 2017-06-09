@@ -75,7 +75,7 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 *Ge Gao*
 
-<img src="picture/CNetwork/cnetwork-client.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service1.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service2.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service3.png" height="150" width="150" />
+<img src="picture/CNetwork/cnetwork-client.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service1.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service2.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service3.png" height="150" width="150" />
 
 **Digital on-campus information platform**
 
