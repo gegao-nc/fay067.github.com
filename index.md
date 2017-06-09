@@ -62,6 +62,10 @@ We built an interactive flight simulator in VR environment using traditional inp
 <source src="cgt521_GG&XYH_baofeng.bhd">
 </video>
 
+<video src="cgt521_GG&XYH_baofeng.bhd" width="480" height="320"/>
+
+
+
 **A small research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
 
 *Jessica Balfe, Ge Gao, Sri Rama Kartheek Kappagantula, Yushan Wei*
@@ -70,5 +74,11 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 <img src="picture/CGT511/design1.png" height="200" width="300" /><img src="picture/CGT511/design2.png" height="200" width="300" />
 <img src="picture/CGT511/result1.png" height="200" width="300" /><img src="picture/CGT511/result2.png" height="200" width="300" /><img src="picture/CGT511/result3.png" height="200" width="300" />
+
+**Private Tracker - Peiyang PT**
+
+*Ge Gao*
+
+
 
 
