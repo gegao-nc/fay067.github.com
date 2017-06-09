@@ -41,7 +41,6 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a Senior Software Engineer Intern. I mainly did research on super-dense tree covering in 3D large scene and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
 -----------------------------------------------------------------------------------------------
-
 ### Projects
  
 **A game based on UE4 - Tofu Game!**
@@ -72,8 +71,12 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 <img src="picture/CGT511/result1.png" height="150" width="250" /><img src="picture/CGT511/result2.png" height="150" width="250" /><img src="picture/CGT511/result3.png" height="150" width="250" />
 
-**Private Tracker - Peiyang PT**
+**Private tracker for PC platform - Peiyang PT**
 
 *Ge Gao*
 
 <img src="picture/CNetwork/cnetwork-client.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service1.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service2.png" height="150" width="150" />&emsp;<img src="picture/CNetwork/cnetwork-service3.png" height="150" width="150" />
+
+-----------------------------------------------------------------------------------------------
+### B.E. Thesis
+
