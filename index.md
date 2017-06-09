@@ -91,6 +91,10 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 <img src="picture/realtimegraphics/realtimedesign2.png" height="200" width="250" /><img src="picture/realtimegraphics/realtimedesign1.png" height="200" width="250" /><img src="picture/realtimegraphics/realtimedesign3.png" height="200" width="250" />
 
+**A student information management system**
+
+*Ge Gao*
+
 **Visualization of contour line based on MFC of VS**
 
 *Ge Gao*
@@ -105,7 +109,9 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 I used four ways, including Prewitt, Sobel, Canny, and FDoG.
 
+<img src="picture/imageprocessing/fbb0.png" height="200" width="200" />
 
+<img src="picture/imageprocessing/fbb1.png" height="200" width="200" /><img src="picture/imageprocessing/fbb2.png" height="200" width="200" /><img src="picture/imageprocessing/fbb3.png" height="200" width="200" /><img src="picture/imageprocessing/fbb4.png" height="200" width="200" />
 
 **Image processing - Optimization of high contrasting photos**
 
