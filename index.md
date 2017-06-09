@@ -109,8 +109,11 @@ I realized this based on Tone Mapping algorithm.
 
 We highly accelerated the processing time based on the paper without visible worse performance.
 [Cho, S., Wang, J., & Lee, S. (2012). Handling outliers in non-blind image deconvolution. IEEE International Conference on Computer Vision (Vol.6669, pp.495-502). IEEE.](https://www.computer.org/csdl/proceedings/iccv/2011/1101/00/06126280-abs.html).
+
 -----------------------------------------------------------------------------------------------
 ### Projects(About modeling & designing)
+
+
 
 ### B.E. Thesis
 
