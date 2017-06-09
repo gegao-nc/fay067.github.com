@@ -18,7 +18,7 @@ Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;90
 
 Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;92
 
-Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 93
+Computer Graphics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 93
 
 Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
 
