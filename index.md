@@ -68,3 +68,8 @@ We built an interactive flight simulator in VR environment using traditional inp
 
 We wanted to study whether warm lights are preferred in virtual indoor environment. We conducted an experiment wherein we showed several videos to our participants, each video containing a walkthrough of an indoor room with warm white light and cool white light. We changed the condition of the room for each video by changing the intensity of light and color of furniture. Our results indicate that majority of people prefer warm light to cool light in different conditions and that the parameters Intensity of light and color of furniture have little effect on a person’s preference for color of light.
 
+![design1](picture/CGT511/design1.png) ![design2](picture/CGT511/design2.png)
+
+![result1](picture/CGT511/result1.png) ![result2](picture/CGT511/result2.png) ![result3](picture/CGT511/result3.png)
+
+
