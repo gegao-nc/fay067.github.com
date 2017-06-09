@@ -16,23 +16,23 @@ Summer Session, UC,Berkeley
 
 Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;90
 
-Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 92
+Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;92
 
-Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;93
+Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;93
 
-Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 96(top 1)
+Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
 
 Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
 
-Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 96(top 1)
+Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
 
 Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;98(top 1)
 
 Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
 
-Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp;A+
+Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
 
-Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
+Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
 
 -----------------------------------------------------------------------------------------------
 ### Work Experience
