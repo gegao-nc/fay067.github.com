@@ -56,15 +56,11 @@ We made this 2.5D game based on UE4, Maya and so on. I worked as a programmer to
 
 *Ge Gao, Xiaoyi Huang*
 
-We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion.
+We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion. (Using OpenGL)
 
 <video width="480" height="320" controls>
 <source src="cgt521_GG&XYH_baofeng.bhd">
 </video>
-
-<video src="cgt521_GG&XYH_baofeng.bhd" width="480" height="320"/>
-
-
 
 **A small research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
 
@@ -78,7 +74,4 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 **Private Tracker - Peiyang PT**
 
 *Ge Gao*
-
-
-
 
