@@ -125,7 +125,7 @@ We highly accelerated the processing time based on the paper without visible wor
 
 <img src="picture/CGT490/Rock.jpg" height="300" width="500" />
 
-**Rose Capsule**
+**Rose Capsule**(Using Maya and Substance Painter)
 
 *Ge Gao, Concept from: Mr. Daniel Triplett*
 
