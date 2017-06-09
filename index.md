@@ -10,7 +10,7 @@ M.S. Computer Graphics, Purdue University (Minor: Statistics)
 
 B.E. Computer Science, Tianjin University
 
-Summer Session, UC,Berkeley
+2014 Summer Session, UC,Berkeley
 
 #### Selected Courses
 
@@ -48,7 +48,7 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 *Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
 
-We made this game based on UE4, Maya and so on. I worked as a programmer to control triggers and AI in game, and I also worked as an artist(I made the tableware XD).
+We made this 2.5D game based on UE4, Maya and so on. I worked as a programmer to control triggers and AI in game, and I also worked as an artist(I made the tableware XD).
 
 ![TofuGame](TofuGame.png)  
 
@@ -61,3 +61,10 @@ We built an interactive flight simulator in VR environment using traditional inp
 <video width="480" height="320" controls>
 <source src="cgt521_GG&XYH_baofeng.bhd">
 </video>
+
+**A small research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
+
+*Jessica Balfe, Ge Gao, Sri Rama Kartheek Kappagantula, Yushan Wei*
+
+We wanted to study whether warm lights are preferred in virtual indoor environment. We conducted an experiment wherein we showed several videos to our participants, each video containing a walkthrough of an indoor room with warm white light and cool white light. We changed the condition of the room for each video by changing the intensity of light and color of furniture. Our results indicate that majority of people prefer warm light to cool light in different conditions and that the parameters Intensity of light and color of furniture have little effect on a person’s preference for color of light.
+
