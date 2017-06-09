@@ -117,7 +117,7 @@ We highly accelerated the processing time based on the paper without visible wor
 
 *Ge Gao*
 
-<img src="picture/CGT490/plant1.png" height="300" width="300" /><img src="picture/CGT490/plant2.png" height="300" width="300" /> 
+<img src="picture/CGT490/plant1.png" height="300" width="300" />&emsp;<img src="picture/CGT490/plant2.png" height="300" width="300" /> 
 
 **Rock**(Using ZBrush, Substance Painter and Maya)
 
@@ -129,7 +129,7 @@ We highly accelerated the processing time based on the paper without visible wor
 
 *Ge Gao, Concept from: Mr. Daniel Triplett*
 
-<img src="picture/CGT490/Capsule1.jpg" height="350" width="200" /><img src="picture/CGT490/Capsule2.jpg" height="350" width="200" />
+<li><img src="picture/CGT490/Capsule1.jpg" height="350" width="200" />&emsp;<img src="picture/CGT490/Capsule2.jpg" height="350" width="200" />kkk</li>
 
 
 ### B.E. Thesis
