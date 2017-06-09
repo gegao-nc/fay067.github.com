@@ -14,7 +14,7 @@ B.E. Computer Science, Tianjin University
 
 #### Selected Courses
 
-Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;90
+Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;<div align="right">90
 
 Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;92
 
