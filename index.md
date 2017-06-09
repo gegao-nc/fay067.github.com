@@ -89,6 +89,8 @@ We developing a information inquiry platform based on ArcGIS and Google Maps.
 
 I developed a real-time rendering 3D driving game with interaction, animation, terrain, object picking, and particle effect. 
 
+<img src="picture/realtimegraphics/realtimedesign2.png" height="200" width="250" /><img src="picture/realtimegraphics/realtimedesign1.png" height="200" width="250" /><img src="picture/realtimegraphics/realtimedesign3.png" height="200" width="250" />
+
 **Visualization of contour line based on MFC of VS**
 
 *Ge Gao*
@@ -96,6 +98,14 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 **Visualization of leaders of China and the US meeting data**
 
 *Ge Gao*
+
+**Image Processing - Edge detection**
+
+*Ge Gao*
+
+I used four ways, including Prewitt, Sobel, Canny, and FDoG.
+
+
 
 **Image processing - Optimization of high contrasting photos**
 
