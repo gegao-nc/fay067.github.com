@@ -1,7 +1,7 @@
 ## Ge Gao                       gao412@purdue.edu
 ![fay067](gao.jpg)  
 
-I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recuitment or referral.
+I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recruitment or referral.
 
 -----------------------------------------------------------------------------------------------
 ### Education
@@ -20,7 +20,7 @@ Principles of Database &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 Computer Graphics &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 93
 
-Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 96(top 1)
+Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
 
 Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
 
