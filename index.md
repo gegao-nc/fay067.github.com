@@ -89,7 +89,7 @@ We developing a information inquiry platform based on ArcGIS and Google Maps.
 
 I developed a real-time rendering 3D driving game with interaction, animation, terrain, object picking, and particle effect. 
 
-<img src="picture/realtimegraphics/realtimedesign2.png" height="200" width="200" /><img src="picture/realtimegraphics/realtimedesign1.png" height="200" width="200" /><img src="picture/realtimegraphics/realtimedesign3.png" height="200" width="200" />
+<img src="picture/realtimegraphics/realtimedesign2.png" height="200" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign1.png" height="200" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign3.png" height="200" width="200" />
 
 **A student information management system**
 
