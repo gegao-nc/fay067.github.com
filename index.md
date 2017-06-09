@@ -62,11 +62,11 @@ We built an interactive flight simulator in VR environment using traditional inp
 <source src="cgt521_GG&XYH_baofeng.bhd">
 </video>
 
-**A small research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
+**A research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
 
 *Jessica Balfe, Ge Gao, Sri Rama Kartheek Kappagantula, Yushan Wei*
 
-We wanted to study whether warm lights are preferred in virtual indoor environment. We conducted an experiment wherein we showed several videos to our participants, each video containing a walkthrough of an indoor room with warm white light and cool white light. We changed the condition of the room for each video by changing the intensity of light and color of furniture. Our results indicate that majority of people prefer warm light to cool light in different conditions and that the parameters Intensity of light and color of furniture have little effect on a person’s preference for color of light.
+We wanted to study whether warm lights are preferred in virtual indoor environment. We conducted an experiment which we showed videos(We built using Maya) to our participants, each video containing a walkthrough of an indoor room with warm white light, cool white light, dark and bright furnature. Our results indicate that majority of people prefer warm light to cool light in different conditions and that the parameters Intensity of light and color of furniture have little effect on a person’s preference for color of light.
 
 ![videopic](picture/CGT511/videopic.png)  
 
