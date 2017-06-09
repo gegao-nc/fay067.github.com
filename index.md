@@ -99,9 +99,13 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 *Ge Gao*
 
+<img src="picture/Visualization/visproj1-1.png" height="200" width="200" />&emsp;<img src="picture/Visualization/visproj1-2.png" height="200" width="200" />&emsp;<img src="picture/Visualization/visproj1-3.jpg" height="200" width="200" />
+
 **Visualization of leaders of China and the US meeting data**
 
 *Ge Gao*
+
+<img src="picture/Visualization/visproj2.png" height="200" width="500" />
 
 **Image Processing - Edge detection**
 
