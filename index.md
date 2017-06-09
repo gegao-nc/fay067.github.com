@@ -129,8 +129,8 @@ We highly accelerated the processing time based on the paper without visible wor
 
 *Ge Gao, Concept from: Mr. Daniel Triplett*
 
-<li><img src="picture/CGT490/Capsule1.jpg" height="350" width="200" />&emsp;<img src="picture/CGT490/Capsule2.jpg" height="350" width="200" />kkk</li>
+<img src="picture/CGT490/Capsule1.jpg" height="350" width="200" />&emsp;<img src="picture/CGT490/Capsule2.jpg" height="350" width="200" />
 
-
+-----------------------------------------------------------------------------------------------
 ### B.E. Thesis
 
