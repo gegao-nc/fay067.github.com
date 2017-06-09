@@ -70,6 +70,8 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 ![design1](picture/CGT511/design1.png) ![design2](picture/CGT511/design2.png)
 
+<img src="picture/CGT511/design1.png" height="200" width="200" />
+
 ![result1](picture/CGT511/result1.png) ![result2](picture/CGT511/result2.png) ![result3](picture/CGT511/result3.png)
 
 
