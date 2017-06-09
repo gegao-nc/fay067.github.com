@@ -58,7 +58,7 @@ We made this 2.5D game based on UE4, Maya and so on. I worked as a programmer to
 We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion. (Using OpenGL)
 
 <video width="480" height="320" controls>
-<source src="cgt521_GG&XYH_baofeng.bhd">
+<source src="cgt521_GG&XYH_baofeng.mp4">
 </video>
 
 **A research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
