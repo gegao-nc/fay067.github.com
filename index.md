@@ -51,7 +51,7 @@ We made this 2.5D game based on UE4, Maya and so on. I worked as a programmer to
 
 ![TofuGame](TofuGame.png)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Logo
+&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Logo</font>
 
 **Flight Simulator in VR Environment**
 
