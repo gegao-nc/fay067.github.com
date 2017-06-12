@@ -49,7 +49,9 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 We made this 2.5D game based on UE4, Maya and so on. I worked as a programmer to control triggers and AI in game, and I also worked as an artist(I made the tableware XD).
 
-![TofuGame](TofuGame.png)  
+![TofuGame](TofuGame.png)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Logo
 
 **Flight Simulator in VR Environment**
 
@@ -68,6 +70,7 @@ We built an interactive flight simulator in VR environment using traditional inp
 We wanted to study whether warm lights are preferred in virtual indoor environment. We conducted an experiment which we showed videos(We built using Maya) to our participants, each video containing a walkthrough of an indoor room with warm white light, cool white light, dark and bright furnature. Our results indicate that majority of people prefer warm light to cool light in different conditions and that the parameters Intensity of light and color of furniture have little effect on a person’s preference for color of light.
 
 ![videopic](picture/CGT511/videopic.png)  
+
 
 <img src="picture/CGT511/Result1.png" height="200" width="300" /><img src="picture/CGT511/Result2.png" height="200" width="300" /><img src="picture/CGT511/Result3.png" height="200" width="300" />
 
