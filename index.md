@@ -172,4 +172,6 @@ I began with the visualization of movie data and analyzed the effecting factor o
 
 ### Sometimes I am a video gamer
 
-### I believe you will enjoy the time we spend together. :)
+### But what I really hope to be is a researcher
+
+### I believe you will enjoy the time we spend together.
