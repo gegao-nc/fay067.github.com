@@ -95,6 +95,12 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 <img src="picture/realtimegraphics/realtimedesign2.png" height="200" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign1.png" height="200" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign3.png" height="200" width="200" />
 
+**C complier**
+
+*Jiayuan Zhang(Leader), Ge Gao, Hongyao Huang*
+
+We developed a complete C complier, including parse tree, intermediate code, interface design and so on. 
+
 **A student information management system**
 
 *Ge Gao*
@@ -151,3 +157,17 @@ I realized this based on Tone Mapping algorithm.
 -----------------------------------------------------------------------------------------------
 ### B.E. Thesis
 
+**Movie box-office prediction model and visualization based on big data**
+
+*Ge Gao*
+
+This paper began with the visualization of movie data and analyzed the effecting factor of box-office prediction. Then I set feature factors including directors, actors, and release schedule. Based on quantifying the feature factors with the data extracted from search engine and social media, the paper established a scientific movie box-office revenue’s prediction model using training set. All in all, this paper realized the innovation of predicting method and improved the accuracy of movie box-office revenue’s prediction compared to previous work.
+
+-----------------------------------------------------------------------------------------------
+## If you want to know more about me...
+
+### Sometimes I am an educator
+
+### Sometimes I am a video gamer
+
+### I believe you will enjoy the time we work together. :)
