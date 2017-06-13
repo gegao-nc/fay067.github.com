@@ -106,7 +106,7 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 *Jiayuan Zhang(Leader), Ge Gao, Hongyao Huang*
 
-We developed a complete C complier, including parse tree, intermediate code, interface design and so on. 
+We developed a complete C complier, including parse tree, intermediate code, interface design and so on based on Antlr. 
 
 **A student information management system**
 
