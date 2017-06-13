@@ -110,7 +110,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 <img src="picture/Compiling/example.png" height="180" width="150" />&emsp;<img src="picture/Compiling/tree1.png" height="150" width="180" />&emsp;<img src="picture/Compiling/middle.png" height="180" width="150" />
 
-&emsp;&emsp;&emsp;<font size="2">Example</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Parse Tree</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Intermiate</font>
+&emsp;&emsp;&emsp;<font size="2">Example</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Parse Tree</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Intermediate</font>
 
 **A student information management system**
 
