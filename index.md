@@ -90,9 +90,9 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 We developing a information inquiry platform based on ArcGIS and Google Maps.
 
-<img src="picture/GIS/gis3.png" height="200" width="350" />&emsp;<img src="picture/GIS/gis2.png" height="200" width="50" />
+<img src="picture/GIS/gis3.png" height="180" width="350" />&emsp;<img src="picture/GIS/gis2.png" height="180" width="50" />
 
-<img src="picture/GIS/gis1.png" height="200" width="350" />&emsp;<img src="picture/GIS/gis4.png" height="200" width="150" />
+<img src="picture/GIS/gis1.png" height="180" width="350" />&emsp;<img src="picture/GIS/gis4.png" height="180" width="150" />
 
 **A game based on 3DsMAX and 3DS Loader - Driving**(My first experience with game development)
 
@@ -122,7 +122,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 *Ge Gao*
 
-<img src="picture/Visualization/visproj0.png" height="200" width="500" />
+<img src="picture/Visualization/visproj0.png" height="180" width="500" />
 
 **Image Processing - Edge detection**
 
