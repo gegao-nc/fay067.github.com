@@ -122,7 +122,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 *Ge Gao*
 
-<img src="picture/Visualization/visproj2.png" height="200" width="500" />
+<img src="picture/Visualization/visproj0.png" height="200" width="500" />
 
 **Image Processing - Edge detection**
 
