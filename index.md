@@ -116,7 +116,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 *Ge Gao*
 
-<img src="picture/Visualization/visproj1-1.png" height="200" width="200" />&emsp;<img src="picture/Visualization/visproj1-2.png" height="200" width="200" />&emsp;<img src="picture/Visualization/visproj1-3.jpg" height="200" width="200" />
+<img src="picture/Visualization/visproj1-1.png" height="180" width="180" />&emsp;<img src="picture/Visualization/visproj1-2.png" height="180" width="180" />&emsp;<img src="picture/Visualization/visproj1-3.jpg" height="180" width="180" />
 
 **Visualization of leaders of China and the US meeting data**
 
@@ -130,9 +130,9 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 I used four ways, including Prewitt, Sobel, Canny, and FDoG.
 
-<img src="picture/imageprocessing/fbb0.png" height="200" width="200" />
+<img src="picture/imageprocessing/fbb0.png" height="180" width="180" />
 
-<img src="picture/imageprocessing/fbb1.png" height="200" width="200" /><img src="picture/imageprocessing/fbb2.png" height="200" width="200" /><img src="picture/imageprocessing/fbb3.png" height="200" width="200" /><img src="picture/imageprocessing/fbb4.png" height="200" width="200" />
+<img src="picture/imageprocessing/fbb1.png" height="180" width="180" /><img src="picture/imageprocessing/fbb2.png" height="180" width="180" /><img src="picture/imageprocessing/fbb3.png" height="180" width="180" /><img src="picture/imageprocessing/fbb4.png" height="180" width="180" />
 
 **Image processing - Optimization of high contrasting photos**
 
