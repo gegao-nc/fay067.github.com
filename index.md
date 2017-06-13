@@ -49,13 +49,13 @@ Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 We made this 2.5D game based on UE4, Maya and so on. The game tells about how Tofu gets away from dangerous things like fire, mouse, and the chief(our final boss!). I worked as a programmer to control triggers and AI in game, and I also worked as an artist(I made the tableware XD).
 
-<img src="TofuGame.png" height="200" width="222" />&emsp;<img src="picture/CGT345/MapConcept1.png" height="200" width="222" />&emsp;<img src="picture/CGT345/MapConcept2.png" height="200" width="222" />
+<img src="TofuGame.png" height="180" width="200" />&emsp;<img src="picture/CGT345/MapConcept1.png" height="180" width="200" />&emsp;<img src="picture/CGT345/MapConcept2.png" height="180" width="200" />
 
 &emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Start</font>
 
-<img src="picture/CGT345/Kitchen.png" height="200" width="350" />&emsp;<img src="picture/CGT345/ScreenShot1.png" height="200" width="350" />
+<img src="picture/CGT345/Kitchen.png" height="150" width="300" />&emsp;<img src="picture/CGT345/ScreenShot1.png" height="150" width="300" />
 
-<img src="picture/CGT345/Shooting.png" height="200" width="350" />&emsp;<img src="picture/CGT345/BossLevel.png" height="200" width="350" />
+<img src="picture/CGT345/Shooting.png" height="150" width="300" />&emsp;<img src="picture/CGT345/BossLevel.png" height="150" width="300" />
 
 **Flight Simulator in VR Environment**
 
