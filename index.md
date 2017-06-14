@@ -78,12 +78,6 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 <img src="picture/CGT511/Result1.png" height="200" width="300" /><img src="picture/CGT511/Result2.png" height="200" width="300" /><img src="picture/CGT511/Result3.png" height="200" width="300" />
 
-**Private tracker for PC platform - Peiyang PT**
-
-*Ge Gao*
-
-<img src="picture/CNetwork/cnetwork-client.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service1.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service2.png" height="150" width="150" /><img src="picture/CNetwork/cnetwork-service3.png" height="150" width="150" />
-
 **Digital on-campus information platform**
 
 *Zheng Yan(Leader), Ge Gao, Mengnan Liu, Wei Tang*
