@@ -171,12 +171,5 @@ I began with the visualization of movie data and analyzed the effecting factor o
 
 
 -----------------------------------------------------------------------------------------------
-## If you want to know more about me...
-
-### Sometimes I am an educator
-
-### Sometimes I am a video gamer
-
-### But what I really hope to be is a researcher
 
 ### I believe you will enjoy the time we spend together.
