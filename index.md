@@ -168,8 +168,11 @@ I realized this based on Tone Mapping algorithm.
 
 I began with the visualization of movie data and analyzed the effecting factor of box-office prediction. Then I set feature factors including directors, actors, and release schedule. Based on quantifying the feature factors with the data extracted from search engine and social media, the paper established a new scientific movie box-office revenue’s prediction model using training set. All in all, this paper realized the innovation of predicting method and improved the accuracy of movie box-office revenue’s prediction compared to previous work.
 
+-----------------------------------------------------------------------------------------------
+### M.S. Thesis
 
 
 -----------------------------------------------------------------------------------------------
+
 
 ### I believe you will enjoy the time we spend together.
