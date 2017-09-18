@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------------------
 ### Education
 
-M.S. Computer Graphics, Purdue University
+M.S.(theis track) Computer Graphics, Purdue University
 
 Graduate Certificate in Applied Statistics, Purdue University
 
