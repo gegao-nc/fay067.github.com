@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------------------
 ### Education
 
-M.S.(thesis track) Computer Graphics, Purdue University
+M.S.(Thesis Track) Computer Graphics, Purdue University
 
 Graduate Certificate in Applied Statistics, Purdue University
 
@@ -37,6 +37,12 @@ Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
 Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
 
 Machine Learning(Online course in Coursera)
+
+Interactive Multimedia Development And Research(Currently)
+
+Analysis Of Research In Industry And Technology(Currently)
+
+Statistical Inference(Currently)
 
 -----------------------------------------------------------------------------------------------
 ### Work Experience 
