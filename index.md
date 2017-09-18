@@ -70,7 +70,7 @@ We made this 2.5D game based on UE4, Maya and so on. The game tells about how To
 
 *Ge Gao, Xiaoyi Huang*
 
-We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion. (Using OpenGL)
+We built an interactive flight simulator in VR environment using traditional input devices such as keyboard, combined with third-party input devices specifically designed for VR devices, such as LeapMotion. (Using OpenGL and GLSL)
 
 <video width="480" height="320" controls>
 <source src="cgt521_GG&XYH_baofeng.mp4">
@@ -135,7 +135,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 *Ge Gao*
 
-I used four ways, including Prewitt, Sobel, Canny, and FDoG.
+I used four ways, including Prewitt, Sobel, Canny, and FDoG using MatLab.
 
 <img src="picture/imageprocessing/fbb0.png" height="180" width="180" />
 
