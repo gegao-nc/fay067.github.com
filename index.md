@@ -36,7 +36,7 @@ Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
 
 Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
 
-Machine Learning(Online course in Coursera)
+Machine Learning(Currently)
 
 Interactive Multimedia Development And Research(Currently)
 
@@ -49,6 +49,7 @@ Statistical Inference(Currently)
 
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a **Senior Software Engineer Intern**. I mainly did research on super-dense tree covering in 3D large scene, animation in wind field, and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
+2017.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CGT 163-Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
 -----------------------------------------------------------------------------------------------
 ### Projects(About programming)
  
