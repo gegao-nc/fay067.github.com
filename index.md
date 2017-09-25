@@ -49,7 +49,7 @@ Statistical Inference(Currently)
 
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a **Senior Software Engineer Intern**. I mainly did research on super-dense tree covering in 3D large scene, animation in wind field, and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
-2017.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CGT 163-Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
+2017.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CGT 163 - Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
 
 -----------------------------------------------------------------------------------------------
 ### Projects(About programming)
@@ -173,15 +173,20 @@ I realized this based on Tone Mapping algorithm.
 -----------------------------------------------------------------------------------------------
 ### B.E. Thesis
 
-**Movie box-office prediction model and visualization based on big data**
+**Movie Box-Office Prediction Model and Visualization Based on Big Data**
 
-*Supervised by Prof. [Shiguang Liu](http://www.tjucs.win/faculty/lsg/) (Department of Computer Science and Technology, Tianjin University)*
+*Supervised by Dr. [Shiguang Liu](http://www.tjucs.win/faculty/lsg/) (Department of Computer Science and Technology, Tianjin University)*
 
 I began with the visualization of movie data and analyzed the effecting factor of box-office prediction. Then I set feature factors including directors, actors, and release schedule. Based on quantifying the feature factors with the data extracted from search engine and social media, the paper established a new scientific movie box-office revenue’s prediction model using training set. All in all, this paper realized the innovation of predicting method and improved the accuracy of movie box-office revenue’s prediction compared to previous work.
 
 -----------------------------------------------------------------------------------------------
 ### M.S. Thesis
 
+**How People Distinguish Trees in Virtual Environment**
+
+*Supervised by Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489), Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit)(Department of Computer Graphics Technology, Purdue University)*
+
+The goal of the thesis is to find out whether and to what extent people can distinguish trees with various features (relative orientation, structure, density of benches, color distribution of leaves, etc.) in virtual environment, especially real-time rendering such as game industry. During the controlled experiment, there are two research methods are used qualitatively and quantitatively. The qualitive method assesses the visually perceptual impression of interviewees on several groups of experimental materials. The quantitative method measures precise statistics on experimenting variables. The two research methods are complementary, creating a valid and comprehensive image of the experiment. 
 
 -----------------------------------------------------------------------------------------------
 
