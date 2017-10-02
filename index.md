@@ -53,12 +53,16 @@ Statistical Inference(Currently)
 
 -----------------------------------------------------------------------------------------------
 ### Projects(About programming)
+
+**A research - Designing an interactive system for international parents and their kids**(plan to be submitted to CHI Student Design Competition 2018)
+
+*Ge Gao, Asefeh Kardgar, Xiaoyue Qin, Junhan Zhao*
  
 **A game based on UE4 - Tofu Game!**
 
 *Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
 
-We made this 2.5D game based on UE4, Maya and so on. The game tells about how Tofu gets away from dangerous things like fire, mouse, and the chief(our final boss!). I worked as a programmer to control triggers and AI in game, and I also worked as an artist to design models and visual effect.
+We made this 2.5D game based on UE4, Maya and so on. The game tells about how Tofu gets away from dangerous things like fire, mouse, and the chief(our final boss!). I worked as a programmer to control triggers, physics, and AI in game, and I also worked as an artist to design models and visual effect.
 
 <img src="TofuGame.png" height="180" width="200" />&emsp;<img src="picture/CGT345/MapConcept1.png" height="180" width="200" />&emsp;<img src="picture/CGT345/MapConcept2.png" height="180" width="200" />
 
@@ -182,7 +186,7 @@ I began with the visualization of movie data and analyzed the effecting factor o
 -----------------------------------------------------------------------------------------------
 ### M.S. Thesis
 
-**How People Distinguish Trees in Virtual Environment**
+**How People Distinguish Trees in Virtual Environment**(submitted to HCI International 2018)
 
 *Supervised by Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489), Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit)(Department of Computer Graphics Technology, Purdue University)*
 
