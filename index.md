@@ -1,5 +1,5 @@
 ## Ge Gao                       gao412@purdue.edu
-![fay067](gao.jpg)  
+![fay067](fay17.jpg)  
 
 <font size="3">I am currently a graduate student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recruitment or referral.</font> 
 
