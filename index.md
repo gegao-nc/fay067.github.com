@@ -38,13 +38,9 @@ Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
 
 Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
 
-Machine Learning(Currently)
+Interactive Multimedia Development And Research &emsp;&emsp;&emsp;&ensp; A
 
-Interactive Multimedia Development And Research(Currently)
-
-Analysis Of Research In Industry And Technology(Currently)
-
-Statistical Inference(Currently)
+Analysis Of Research In Industry And Technology &emsp;&emsp;&emsp;&ensp; A
 
 -----------------------------------------------------------------------------------------------
 ### Work Experience 
