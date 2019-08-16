@@ -1,5 +1,5 @@
 ## Ge Gao                       ggao5@ncsu.edu
-<img src="Ge19.jpg" height="200" width="150" /> 
+<img src="Ge19.jpg" height="190" width="150" /> 
 
 <font size="3">I am currently a PhD student of HINTS Lab at North Carolina State University. I used to be a Master student of Game Innovation Lab at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recruitment or referral.</font> 
 
