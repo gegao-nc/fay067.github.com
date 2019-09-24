@@ -1,7 +1,7 @@
 ## Ge Gao                       ggao5@ncsu.edu
 <img src="Ge19.jpg" height="200" width="150" /> 
 
-<font size="3">I am currently a PhD student of HINTS Lab with Dr. Thomas W. Price at North Carolina State University. I used to be a Master student of Game Innovation Lab with Dr. David M. Whittinghill at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recruitment or referral.</font> 
+<font size="3">I am currently a PhD student of HINTS Lab with Dr. Thomas W. Price at North Carolina State University(NCSU). I used to be a Master student of Game Innovation Lab with Dr. David M. Whittinghill at Purdue University. This page is used to show my previous work and what I am interested in now. Please feel free to contact me by email if you are interested in recruitment or referral.</font> 
 
 -----------------------------------------------------------------------------------------------
 ### Education
@@ -16,41 +16,17 @@ B.E. Computer Science, Tianjin University
 
 2014 Summer Session, UC,Berkeley
 
-#### Selected Courses
-
-Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;90
-
-Principles of Database&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;92
-
-Computer Graphics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 93
-
-Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 96(top 1)
-
-Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
-
-Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
-
-Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 98(top 1)
-
-Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
-
-Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
-
-Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
-
-Interactive Multimedia Development And Research &emsp;&emsp;&emsp;&ensp; A
-
-Analysis Of Research In Industry And Technology &emsp;&emsp;&emsp;&ensp; A
-
 -----------------------------------------------------------------------------------------------
 ### Work Experience 
 
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a **Senior Software Engineer Intern**. I mainly did research on super-dense tree covering in 3D large scene, animation in wind field, and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
-2017.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CGT 163 - Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
+2017.Aug-2018.May &emsp;&emsp; Graduate Teaching Assistant of CGT 163 - Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
+
+2018.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CSC 216 Programming Concepts - Java, 281 Foundations of Interactive Game Design, 226 Discrete Mathematics, Department of Computer Science, NCSU
 
 -----------------------------------------------------------------------------------------------
-### Projects(About programming)
+### Selected Projects
 
 **A research - Designing an interactive system for international parents and their kids**(plan to be submitted to CHI Student Design Competition 2018)
 
@@ -152,7 +128,7 @@ I used four ways, including Prewitt, Sobel, Canny, and FDoG using MatLab.
 I realized this based on Tone Mapping algorithm.
 
 -----------------------------------------------------------------------------------------------
-### Projects(About modeling & designing)
+### Projects(About designing)
 
 **Plant**(Using Maya and PhotoShop)
 
@@ -184,11 +160,11 @@ I began with the visualization of movie data and analyzed the effecting factor o
 -----------------------------------------------------------------------------------------------
 ### M.S. Thesis
 
-**How People Distinguish Trees in Virtual Environment**(submitted to HCI International 2018)
+**The Effects on User Perception of Uniqueness of Three Factors as Applied to 3-Dimensional Tree Models**
 
-*Supervised by Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489), Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit)(Department of Computer Graphics Technology, Purdue University)*
+*Supervised by Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489), Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit)(Department of Computer Graphics Technology, Purdue University), Dr. [Qifan Song](https://www.stat.purdue.edu/people/faculty/qfsong)(Department of Statistics, Purdue University)*
 
-The goal of the thesis is to find out whether and to what extent people can distinguish trees with various features (relative orientation, structure, density of benches, color distribution of leaves, etc.) in virtual environment, especially real-time rendering such as game industry. During the controlled experiment, there are two research methods are used qualitatively and quantitatively. The qualitive method assesses the visually perceptual impression of interviewees on several groups of experimental materials. The quantitative method measures precise statistics on experimenting variables. The two research methods are complementary, creating a valid and comprehensive image of the experiment. 
+TThe gaming industry always faces the continual challenges of striking balance between real-time computing performance and graphics presentation quality. This is particularly apparent for a game with vast wild-lands scenes which demands for a large number of tree models. From the visual perception perspective, this paper investigated whether people can distinguish trees with uniqueness of various features (relative orientation, density of branches, leaf color) using the same tree model in a virtual environment. During the controlled experiment, quantitative research methods were used, which measured the statistics of tree variations. The results suggested that our methods successfully contributed a strategy in saving graphic resources without user consciousness and maintaining high graphics performance.
 
 -----------------------------------------------------------------------------------------------
 
